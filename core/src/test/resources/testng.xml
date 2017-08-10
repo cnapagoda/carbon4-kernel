@@ -26,13 +26,10 @@ limitations under the License.
 
             <class name="org.wso2.carbon.kernel.internal.runtime.RuntimeManagerTest"/>
             <class name="org.wso2.carbon.kernel.internal.startupresolver.MultiCounterTest"/>
-            <class name="org.wso2.carbon.kernel.internal.transports.TransportMgtCommandProviderTest"/>
 
             <class name="org.wso2.carbon.kernel.runtime.CustomRuntimeTest" />
             <class name="org.wso2.carbon.kernel.runtime.RuntimeServiceExceptionTest" />
             <class name="org.wso2.carbon.kernel.runtime.RuntimeServiceTest" />
-
-            <class name="org.wso2.carbon.kernel.transports.TransportManagerTest" />
 
             <class name="org.wso2.carbon.kernel.runtime.RuntimeManagerTest" />
 
@@ -41,7 +38,6 @@ limitations under the License.
             <class name="org.wso2.carbon.kernel.internal.context.DefaultCarbonRuntimeTest" />
             <class name="org.wso2.carbon.kernel.internal.context.CarbonRuntimeFactoryTest" />
             <class name="org.wso2.carbon.kernel.jmx.MBeanManagementFactoryTest"/>
-            <class name="org.wso2.carbon.kernel.jmx.MBeanRegistratorTest"/>
             <class name="org.wso2.carbon.kernel.startupresolver.manifest.ManifestElementTest"/>
         </classes>
     </test>
